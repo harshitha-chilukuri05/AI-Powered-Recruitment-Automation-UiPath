@@ -675,7 +675,7 @@
                   </Assign.To>
                   <Assign.Value>
                     <InArgument x:TypeArguments="scg:Dictionary(x:String, x:String)" xml:space="preserve">[New Dictionary(Of String, String) From {
-    {"Authorization", "Bearer " + "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"},
+    {"Authorization", "Bearer " + "YOUR_API_KEY"},
     {"Content-Type", "application/json"}
 }]</InArgument>
                   </Assign.Value>
